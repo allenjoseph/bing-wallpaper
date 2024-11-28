@@ -1,0 +1,15 @@
+{
+  "name": "bing-wallpaper",
+  "version": "1.0.0",
+  "description": "Set the Bing.com's wallpaper as your desktop wallpaper.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bing-wallpaper"
+  ],
+  "author": "",
+  "license": "MIT"
+}
